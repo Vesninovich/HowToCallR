@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{DA7A21FA-8162-4350-AD77-A8D1B671F3ED}") = "RTest", "RTest\RTest.rxproj", "{4355110E-256C-44F4-9B43-D2A93A73D142}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RToCSTest", "RToCSTest\RToCSTest.csproj", "{73A0DC70-F81B-47CC-B6D8-616F062AB7EE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonRTest", "PythonRTest\PythonRTest.pyproj", "{64159D71-D07E-45CA-AC7E-7F6B49CAA5DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4355110E-256C-44F4-9B43-D2A93A73D142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4355110E-256C-44F4-9B43-D2A93A73D142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4355110E-256C-44F4-9B43-D2A93A73D142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4355110E-256C-44F4-9B43-D2A93A73D142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73A0DC70-F81B-47CC-B6D8-616F062AB7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A0DC70-F81B-47CC-B6D8-616F062AB7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A0DC70-F81B-47CC-B6D8-616F062AB7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A0DC70-F81B-47CC-B6D8-616F062AB7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64159D71-D07E-45CA-AC7E-7F6B49CAA5DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64159D71-D07E-45CA-AC7E-7F6B49CAA5DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AD0D1E4-AB25-45A3-8797-C60DAD47C05D}
+	EndGlobalSection
+EndGlobal
